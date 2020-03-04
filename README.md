@@ -10,7 +10,7 @@
 Install globally via composer:
 
 ```shell script
-composer global require chrgriffin/collection-macro-package-generator
+composer global require chrgriffin/laravel-collection-package-generator
 ```
 
 You can now quickly scaffold a Laravel Collection macro package by running:
