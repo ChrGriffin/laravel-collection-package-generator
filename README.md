@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://app.codeship.com/projects/673bef30-407c-0138-2ef9-16df26dc09b2/status?branch=master" alt="Build Status">
+<img src='https://coveralls.io/repos/github/ChrGriffin/laravel-collection-package-generator/badge.svg?branch=master' alt='Coverage Status' />
+</p>
+
 # Collection Macro Package Generator
 
 ## Usage
